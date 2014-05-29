@@ -4,3 +4,19 @@
 /db-sync
 /content/upgrade/
 .DS_Store
+
+######################################
+#	ALL FILES BELOW ADDED BY COREY	 #
+######################################
+
+# IGNORE EVERYTHING IN THESE FOLDERS
+.idea/
+
+
+
+
+
+
+
+# IGNORE THESE SPECIFIC FILES
+indexORIGINAL.php
